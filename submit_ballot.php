@@ -56,5 +56,5 @@
 	}
 
 	header('location: home.php');
-
+	
 ?>

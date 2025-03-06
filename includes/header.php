@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css">
   	<!-- Font Awesome -->
   	<link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="./images/Escudo-ITO ico.ico" type="image/x-icon">
   	<!-- Theme style -->
   	<link rel="stylesheet" href="dist/css/AdminLTE.min.css">
   	<!-- AdminLTE Skins. Choose a skin from the css/skins
